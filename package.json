@@ -1,0 +1,14 @@
+{
+  "name": "splatico-landing-page",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static Splatico game landing page built with Tailwind CSS.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "npm run build && python3 -m http.server 4173 --bind 127.0.0.1 --directory dist"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.0",
+    "tailwindcss": "^4.1.0"
+  }
+}

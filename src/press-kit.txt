@@ -1,0 +1,30 @@
+SPLATICO
+SURVIVE THE HUNT
+
+Multiplayer voxel prop hunt.
+
+Props disguise themselves as objects on the map and hide. Hunters search with paint guns and air blasts. Props can use decoys, disguises, taunts, and abilities to survive the hunt.
+
+FEATURES
+- Online multiplayer over Steam.
+- Four modes: Infection, Last Stand, Rush, and VIP.
+- Chaos events change the conditions during a round.
+- Character customization with hats, faces, face colors, and emotes.
+- Built-in voxel map editor with custom block, prop, asset, and decal imports.
+- Splatico Blockbench plugin for creating props and static scenery.
+- Steam Workshop map sharing with custom content included.
+
+CONTACT
+Press, YouTubers, and streamers: press@splaticogame.com
+Discord: https://discord.gg/P88g5WmsQS
+X: https://x.com/splatico_game
+Wiki: https://splatico.fandom.com/wiki/Splatico_Wiki
+
+CONTENTS
+boot-logo.png: Splatico wordmark.
+menu-logo-text.png: Wordmark with Survive the Hunt tagline.
+logo-splats.png: Logo paint-splat background.
+library.png and pool.png: In-game maps.
+hunter.png and hat-crown.png: Transparent character renders.
+
+These Splatico assets are provided for press and creator coverage of the game. Contact the press address with questions about usage or additional materials.
